@@ -1,0 +1,236 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/api/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/apiextensions-apiserver/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/apimachinery/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/apiserver/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/cli-runtime/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/client-go/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  5  staging/src/k8s.io/cloud-provider/SECURITY_CONTACTS 
+@@ -13,3 +13,8 @@
+cheftako
+andrewsykim
+dims
+cjcullen
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/cluster-bootstrap/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/code-generator/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  1  staging/src/k8s.io/component-base/SECURITY_CONTACTS 
+@@ -11,6 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+joelsmith
+liggitt
+luxas
+sttts
+  5  staging/src/k8s.io/cri-api/SECURITY_CONTACTS 
+@@ -13,3 +13,8 @@
+tallclair
+yujuhong
+dims
+cjcullen
+joelsmith
+liggitt
+philips
+tallclair
+  5  staging/src/k8s.io/csi-translation-lib/SECURITY_CONTACTS 
+@@ -11,3 +11,8 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+saad-ali
+cjcullen
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/kube-aggregator/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  1  staging/src/k8s.io/kube-controller-manager/SECURITY_CONTACTS 
+@@ -11,6 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+joelsmith
+liggitt
+luxas
+sttts
+  2  staging/src/k8s.io/kube-proxy/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/kube-scheduler/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/kubelet/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  5  staging/src/k8s.io/legacy-cloud-providers/SECURITY_CONTACTS 
+@@ -13,3 +13,8 @@
+cheftako
+andrewsykim
+dims
+cjcullen
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/metrics/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  4  staging/src/k8s.io/node-api/SECURITY_CONTACTS 
+@@ -10,4 +10,8 @@
+# DO NOT REPORT SECURITY VULNERABILITIES DIRECTLY TO THESE NAMES, FOLLOW THE
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/sample-apiserver/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/sample-cli-plugin/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
+  2  staging/src/k8s.io/sample-controller/SECURITY_CONTACTS 
+@@ -11,7 +11,7 @@
+# INSTRUCTIONS AT https://kubernetes.io/security/
+
+cjcullen
+jessfraz
+joelsmith
+liggitt
+philips
+tallclair
